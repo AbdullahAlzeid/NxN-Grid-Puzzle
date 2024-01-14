@@ -1,0 +1,197 @@
+Run 1:
+Initial State:
+0 6 2
+4 7 3
+8 1 5
+
+Final State:
+1 2 3
+4 5 6
+7 8 0
+
+Algorithm Used: DFS
+Solution Sequence:
+D --> R --> U --> R --> D --> L --> D --> R --> U --> U --> L --> D --> D --> L --> U --> U --> R --> R --> D --> D
+
+Solution Depth: 20
+Max States Stored: 17
+
+----------------------------------------
+Run 2:
+Initial State:
+5 1 6
+0 8 4
+3 2 7
+
+Final State:
+1 2 3
+4 5 6
+7 8 0
+
+Algorithm Used: DFS
+Solution Sequence:
+R --> R --> D --> L --> L --> U --> R --> D --> L --> U --> U --> R --> D --> R --> D --> L --> U --> R --> U --> L --> D --> L --> D --> R --> R
+
+Solution Depth: 25
+Max States Stored: 23
+
+----------------------------------------
+Run 3:
+Initial State:
+8 7 5
+2 0 1
+4 6 3
+
+Final State:
+1 2 3
+4 5 6
+7 8 0
+
+Algorithm Used: DFS
+Solution Sequence:
+U --> R --> D --> D --> L --> U --> U --> R --> D --> L --> L --> U --> R --> D --> L --> D --> R --> U --> R --> D
+
+Solution Depth: 20
+Max States Stored: 19
+
+----------------------------------------
+Run 4:
+Initial State:
+3 7 6
+4 0 1
+8 5 2
+
+Final State:
+1 2 3
+4 5 6
+7 8 0
+
+Algorithm Used: DFS
+Solution Sequence:
+U --> L --> D --> R --> R --> U --> L --> D --> D --> R --> U --> L --> D --> L --> U --> U --> R --> D --> R --> D
+
+Solution Depth: 20
+Max States Stored: 19
+
+----------------------------------------
+Run 5:
+Initial State:
+6 8 0
+2 7 1
+5 3 4
+
+Final State:
+1 2 3
+4 5 6
+7 8 0
+
+Algorithm Used: DFS
+Solution Sequence:
+D --> L --> D --> R --> U --> L --> U --> R --> D --> L --> L --> U --> R --> D --> L --> D --> R --> R --> U --> L --> L --> D --> R --> R
+
+Solution Depth: 24
+Max States Stored: 21
+
+----------------------------------------
+Run 6:
+Initial State:
+8 0 5
+1 6 7
+2 4 3
+
+Final State:
+1 2 3
+4 5 6
+7 8 0
+
+Algorithm Used: DFS
+Solution Sequence:
+L --> D --> D --> R --> R --> U --> U --> L --> D --> D --> R --> U --> U --> L --> D --> L --> D --> R --> R --> U --> U --> L --> D --> D --> R
+
+Solution Depth: 25
+Max States Stored: 22
+
+----------------------------------------
+Run 7:
+Initial State:
+0 5 2
+1 8 6
+7 4 3
+
+Final State:
+1 2 3
+4 5 6
+7 8 0
+
+Algorithm Used: DFS
+Solution Sequence:
+R --> R --> D --> L --> D --> R --> U --> U --> L --> L --> D --> R --> D --> R --> U --> L --> U --> R --> D --> D
+
+Solution Depth: 20
+Max States Stored: 17
+
+----------------------------------------
+Run 8:
+Initial State:
+8 1 7
+0 4 5
+2 3 6
+
+Final State:
+1 2 3
+4 5 6
+7 8 0
+
+Algorithm Used: DFS
+Solution Sequence:
+R --> D --> L --> U --> U --> R --> D --> D --> R --> U --> U --> L --> D --> R --> D --> L --> U --> L --> D --> R --> U --> R --> D
+
+Solution Depth: 23
+Max States Stored: 21
+
+----------------------------------------
+Run 9:
+Initial State:
+3 6 5
+2 0 7
+4 8 1
+
+Final State:
+1 2 3
+4 5 6
+7 8 0
+
+Algorithm Used: DFS
+Solution Sequence:
+R --> D --> L --> U --> R --> U --> L --> L --> D --> R --> R --> U --> L --> L --> D --> D --> R --> R
+
+Solution Depth: 18
+Max States Stored: 17
+
+----------------------------------------
+Run 10:
+Initial State:
+5 2 8
+3 6 1
+7 0 4
+
+Final State:
+1 2 3
+4 5 6
+7 8 0
+
+Algorithm Used: DFS
+Solution Sequence:
+U --> R --> U --> L --> L --> D --> R --> R --> D --> L --> U --> R --> U --> L --> L --> D --> R --> R --> U --> L --> D --> R --> D
+
+Solution Depth: 23
+Max States Stored: 21
+
+----------------------------------------
+Descriptive Statistics:
+Minimum Solution Depth: 18
+Maximum Solution Depth: 25
+Average Solution Depth: 21.80
+Minimum States Stored: 17
+Maximum States Stored: 23
+Average States Stored: 19.70
