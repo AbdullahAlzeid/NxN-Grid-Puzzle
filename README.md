@@ -1,6 +1,6 @@
 # NxN Grid Puzzle Solver
 
-![Alt text](/images/your-image-filename.png)
+![Alt text](/images/8tile.png)
 
 ## Overview
 This repository contains a Python implementation for solving an NxN grid puzzle using various search algorithms. The puzzle is a variant of the classic sliding tile puzzle, where the goal is to arrange the tiles in a specific order.
